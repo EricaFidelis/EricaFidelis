@@ -1,6 +1,7 @@
 # 🌎 Olá mundo!
 
 Embaixadora universitária DIO Campus Expert #15
+
 🎓 Sou estudante do **terceiro semestre de Engenharia da Computação**  
 🌍 Nível **intermediário em inglês**  
 💡 Apaixonada por tecnologia, inovação e tudo que envolve o universo tech  
