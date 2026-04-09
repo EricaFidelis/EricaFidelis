@@ -7,7 +7,7 @@ Embaixadora universitária DIO Campus Expert #15
 💡 Apaixonada por tecnologia, inovação e tudo que envolve o universo tech  
 🚀 Sempre em busca de evolução.
 
-🐍 Estou iniciando minha jornada com **Python** e explorando cada vez mais o mundo da programação.
+🐍 Estou iniciando minha jornada com **Python** e explorando cada vez mais o mundo da programação e automação.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Erica%20Franco%20Fidelis&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
