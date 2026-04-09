@@ -9,42 +9,60 @@ Embaixadora universitária DIO Campus Expert #15
 
 🐍 Estou iniciando minha jornada com **Python** e explorando cada vez mais o mundo da programação.
 
-##  
-<img align="center" alt="erica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Erica%20Franco%20Fidelis&fontSize=50&animation=fadeIn" width="100%" />
 </p>
-  <a href = "ericafidelis09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="(https://www.instagram.com/ericaf.fidelis/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/ericafrancofidelis/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Apaixonada+por+tecnologia+e+inovação;Em+busca+de+evolução+constante." alt="Typing SVG" />
+</p>
 
+<br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L95W4wv8nNb9STp6iR/giphy.gif" width="100">
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="50">
+  <font size="5"><b>Obrigada por visitar meu perfil!</b></font>
+  <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="50">
+  
+  <br><br>
 
-  <br>
-
-  <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZreXp0Zmd6NGR6eXp6Z3Z4ZzB6eHl6eHl6eHl6eHl6eHl6Z3Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L95W4wv8nNb9STp6iR/giphy.gif" width="60">
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text= Erica Franco Fidelis&fontSize=70&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Desenvolvedora+em+construção...;Apaixonada+por+tecnologia!" alt="Typing SVG" />
-</p>
+<br>
 
 ---
 
-<div align="center">
+### 🛠️ Tecnologias
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br>
+
+### 📫 Contato
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" width="100%" />
+</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" width="100%" />
+</p>
   
   
