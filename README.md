@@ -10,11 +10,11 @@ Embaixadora universitária DIO Campus Expert #15
 🐍 Estou iniciando minha jornada com **Python** e explorando cada vez mais o mundo da programação.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Erica%20Franco%20Fidelis&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Erica%20Franco%20Fidelis&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Apaixonada+por+tecnologia+e+inovação;Em+busca+de+evolução+constante." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Apaixonada+por+tecnologia+e+inovação;Em+busca+de+evolução+constante." alt="Typing SVG" />
 </p>
 
 <br>
@@ -22,12 +22,12 @@ Embaixadora universitária DIO Campus Expert #15
 <div align="center">
   
   <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="50">
-  <font size="5"><b>Obrigada por visitar meu perfil!</b></font>
+  <font size="5" color="#FF69B4"><b>Obrigada por visitar meu perfil!</b></font>
   <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="50">
   
   <br><br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZreXp0Zmd6NGR6eXp6Z3Z4ZzB6eHl6eHl6eHl6eHl6eHl6Z3Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L95W4wv8nNb9STp6iR/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6bmZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8p3vK8G3C6L72Xv6o/giphy.gif" width="80">
 
 </div>
 
@@ -60,9 +60,6 @@ Embaixadora universitária DIO Campus Expert #15
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%" />
 </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer" width="100%" />
-</p>
-  
   
