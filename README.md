@@ -23,5 +23,17 @@ Embaixadora universitária DIO Campus Expert #15
   <a href = "ericafidelis09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="(https://www.instagram.com/ericaf.fidelis/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="(https://www.linkedin.com/in/ericafrancofidelis/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <div align="center">
+
+  <h1> ✨ Obrigada por visitar meu perfil! ✨ </h1>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L95W4wv8nNb9STp6iR/giphy.gif" width="100">
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/Triniboy-Code/Triniboy-Code/main/assets/sparkles.gif" width="200">
+
+</div>
   
 </div>
