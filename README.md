@@ -14,7 +14,7 @@ Embaixadora universitária DIO Campus Expert #15
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Apaixonada+por+tecnologia+e+inovação;Em+busca+de+evolução+constante." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Apaixonada+por+tecnologia+e+inovação;Em+busca+de+evolução+constante." alt="Typing SVG" />
 </p>
 
 <div align="center">
