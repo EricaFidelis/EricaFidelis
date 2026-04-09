@@ -26,7 +26,6 @@ Embaixadora universitária DIO Campus Expert #15
 
   <div align="center">
 
-  <h1> ✨ Obrigada por visitar meu perfil! ✨ </h1>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L95W4wv8nNb9STp6iR/giphy.gif" width="100">
 
@@ -37,7 +36,7 @@ Embaixadora universitária DIO Campus Expert #15
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Seu%20Nome&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text= Erica Franco Fidelis&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
